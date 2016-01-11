@@ -1,0 +1,11 @@
+#better-author-bio-div {background:#E9E4D4; margin:20px 0px 20px 0px; padding:10px 0; border:1px solid #DFD5B5; overflow:hidden;}
+#better-author-bio-div h4 {margin:0 0 4px 90px; padding:0;}
+#better-author-bio-div p {margin:0 0 0 90px; padding:0;}
+#better-author-bio-div img {background: #FFF; float:left; margin:0 10px 0 10px; padding:3px; border:1px solid #DFD5B5;}
+#better-author-bio-div ul {overflow:hidden; margin:0 0 0 90px; padding:0;}
+#better-author-bio-div ul li {list-style-type:none; float:left; margin:8px 6px 0 0; padding:0 0 0 6px; line-height:120%; border-left:1px solid #DFD5B5;}
+#better-author-bio-div ul li.first {border:none; padding:0;}
+p.better-author-bio-div-meta {font-size: 82%;}
+div.better-author-bio-div-info {font-size: 83%;}
+#better-author-bio-div p {margin: -20px 0 0 90px!important;}
+#better-author-bio-div {background-color: #e8e8e8!important;border: 1px solid #C6C6C6!important;margin-bottom: 20px;}
